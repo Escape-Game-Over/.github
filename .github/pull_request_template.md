@@ -1,6 +1,8 @@
 # Pull Request
 
-⚠️⚠️⚠️ Please go to the **Preview** tab and select the appropriate template: ⚠️⚠️⚠️
+⚠️⚠️⚠️ **BEFORE CREATING THE PR** ⚠️⚠️⚠️
+
+Please go to the **Preview** tab and select the appropriate template: 
 
 * [🚀 Feature](?expand=1&template=feature.md)
 * [🐛 Bug Fix](?expand=1&template=bugfix.md) 
